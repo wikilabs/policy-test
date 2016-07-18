@@ -12,7 +12,7 @@ Hello User! We appreciate your enthusiasm, and value the time you will take to f
  
  .... eg: tiddlyspot.com or dropbox ... 
  
-  - This are the detailed steps to reproduce my problem
+ - This are the detailed steps to reproduce my problem
  
  ....
  
