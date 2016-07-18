@@ -6,7 +6,7 @@ We sincerely appreciate your input. To actually solve your issue it has to be **
  
   1.
   2.
-  3. 
+  3.
   
  - as a user I ..
  
