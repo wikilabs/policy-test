@@ -1,4 +1,6 @@
-Hello User! We appreciate your enthusiasm, and value the time you will take to file an "actionable" issue. To speed things up for you and make issues more actionable for us, here follows a short form, that should help the project! --- just delete this header and the stuff, that's not valid for your issue.
+Hello User!
+
+We appreciate your enthusiasm, and value the time you will take to file an "actionable" issue. To speed things up for you and make issues more actionable for us, here follows a short form, that should help the project! --- just delete this header and the stuff, that's not valid for your issue.
 
  - as a user I expected
  
