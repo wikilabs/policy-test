@@ -1,24 +1,25 @@
-Hello User!
+Dear User!
 
-We appreciate your enthusiasm, and value the time you will take to file an "actionable" issue. To speed things up for you and make issues more actionable for us, here follows a short form, that should help the project! --- just delete this header and the stuff, that's not valid for your issue.
+We sincerely appreciate your input. To actually solve your issue it has to be **actionable and easily understood.** Please fill in the following and **delete this header and anything that is not relevant for your context**:
 
- - as a user I expected
+
+ - These are the detailed steps to reproduce the problem
  
  ....
  
- - as a programmer I expected
+ - as a user I ..
+ 
+ (expect / want / prefere) ....
+ 
+ - as a programmer I ..
  
  ....
  
- - I'm able to provide a link, to a "minimal test case" at
+ - A link to my "minimal test case" (MTC):
  
- .... eg: tiddlyspot.com or dropbox ... 
- 
- - This are the detailed steps to reproduce my problem
- 
- ....
- 
- - I found a workaround, but that's not really a solution
+ .... eg at: tiddlyspot.com or dropbox (optional, but highly appreciated by the defs :)
+  
+ - A temporary workaround is:
  
  ....
  
