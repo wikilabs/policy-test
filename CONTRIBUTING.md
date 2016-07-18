@@ -1,8 +1,6 @@
-Dear Contributor!
+Dear Contributor! 
 
-Your pull request is a statement that you want to improve the TiddlyWiki core. Thank you very much! To speed things up, we want to provide you with some info!
-
-To guarantee your PR meets some simple rules, make sure that: 
+Your pull request is a statement that you want to improve the TiddlyWiki core. Thank you very much! To speed things up, please ensure that your PR meets these simple rules:
 
  - If your PR changes core/modules for which there is *documentation*, then please also update that documentation!
 
