@@ -1,5 +1,4 @@
 Dear User!
-
 We sincerely appreciate your input. To actually solve your issue it has to be **actionable and easily understood.** Please fill in the following and **delete this header and anything that is not relevant for your context**:
 
 
@@ -9,7 +8,7 @@ We sincerely appreciate your input. To actually solve your issue it has to be **
  
  - as a user I ..
  
- (expect / want / prefere) ....
+ (expect / want / prefer) ....
  
  - as a programmer I ..
  
@@ -17,7 +16,7 @@ We sincerely appreciate your input. To actually solve your issue it has to be **
  
  - A link to my "minimal test case" (MTC):
  
- .... eg at: tiddlyspot.com or dropbox (optional, but highly appreciated by the defs :)
+ .... eg at: tiddlyspot.com or dropbox (optional, but highly appreciated by the devs :)
   
  - A temporary workaround is:
  
