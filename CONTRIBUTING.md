@@ -14,5 +14,5 @@ Your pull request is a statement that you want to improve the TiddlyWiki core. T
 
 Also ensure you have...
 
- - read [Contributing to TiddlyWiki5](https://github.com/Jermolene/TiddlyWiki5/blob/master/contributing.md)
+ - read: [Contributing to TiddlyWiki5](https://github.com/Jermolene/TiddlyWiki5/blob/master/contributing.md)
  - signed the: [Contributor License Agreement](https://github.com/Jermolene/TiddlyWiki5/blob/master/contributing.md#contributor-license-agreement)

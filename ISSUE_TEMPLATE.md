@@ -4,8 +4,10 @@ We sincerely appreciate your input. To actually solve your issue it has to be **
 
  - These are the detailed steps to reproduce the problem
  
- ....
- 
+  1.
+  2.
+  3. 
+  
  - as a user I ..
  
  (expect / want / prefer) ....
